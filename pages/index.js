@@ -9,14 +9,18 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>What is your first impression as a 3rd year CPE Student?</p>
-        <p>My first impression as  a 3rd year CPE student is that I would be working
-          more on the major subjects and trying to implement the learning to a real life
-          scenarios.
-        </p>
-        <p>
-          I know now how to update my website!
-        </p>
+        <h2>10 Things That Require Zero Talent</h2><br></br>
+              
+          1. Being On Time<br></br>
+          2. Making An Effort<br></br>
+          3. Being High Energy<br></br>
+          4. Having A Positive Attitude<br></br>
+          5. Being Passionate<br></br>
+          6. Using Good Body Language<br></br>
+          7. Being Coachable<br></br>
+          8. Doing A Little Extra<br></br>
+          9. Being Prepared<br></br>
+          10. Having A Strong Work Ethic<br></br>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
